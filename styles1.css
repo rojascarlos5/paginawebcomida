@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    font-family: "Saira", sans-serif;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: 800;
+    color: darkslategrey;
+}
+
+.tu-comida-favorita {
+    font-size: 55px;
+    font-weight: 590;
+    color: #303030;
+    margin-left: 9.5%;
+    line-height: 1.4;
+    margin-top: 20%;
+}
+
+.lorem1 {
+    font-size: 16px;
+    color: #303030;
+    margin-left: 9.4%;
+    width: 85%;
+    margin-right: 5%;
+}
+.imagen-amarilla {
+    position: absolute;
+    width: 700px;
+    z-index: -1;
+    right: 0;
+    margin-top: -50;
+}
+
+.seccion {
+    display: inline-block;
+    background-color: #ff9f0d;
+    padding: 13px 30px;
+    border-radius: 25px;
+    color: #ffffff;
+    text-transform: capitalize;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    width: 165px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 5%;
+    margin-left: 9%;
+    margin-top: 3.5%;
+}
+.seccion:hover {
+    background-color: #EE9003;
+}
+
+.bg-2es {
+    position: absolute;
+    top: 1100px;
+    left: 0;
+    width: 400px;
+    z-index: -1;
+}
+
+.Premium {
+    font-size: 16px;
+    font-weight: 700;
+    color: #ff9f0d;
+    margin-top: 35%;
+    line-height: 1.4;
+}
+
+.La-mejor-calidad {
+    font-size: 45px;
+    font-weight: 700;
+    color: #303030;
+
+    line-height: 1.4;
+}
+
+.lorem2 {
+    font-size: 16px;
+    color: #303030;
+    width: 85%;
+    margin-right: 5%;
+}
+.seccion2 {
+    display: inline-block;
+    background-color: #ff9f0d;
+    padding: 13px 30px;
+    border-radius: 25px;
+    color: #ffffff;
+    text-transform: capitalize;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    width: 165px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 5%;
+    margin-top: 3.5%;
+}
+
+.Productos {
+    font-size: 45px;
+    color: #303030;
+    margin-bottom: 30px;
+}
+
+.parrafo {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: start;
+    font-size: 18px;
+}
+
+    
+ 
